@@ -4,7 +4,7 @@ test
   uses: actions/download-artifact@v2
   with:
     # Artifact name
-    name: # optional
+    name: # joe
     # Destination path
-    path: # optional
+    path: # Left
     
